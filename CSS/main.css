@@ -1,0 +1,48 @@
+@import url('./base.css');
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:30px 0px 0px 0px;
+}
+
+header h1{
+    text-align: center;
+}
+
+.Menu{
+    padding:40px 0px 0px 0px;
+}
+
+.PizzaMenu .pizza{
+    padding:0px 0px 20px 0px;
+}
+
+.PizzaMenu img{
+    width:400px;
+    height:400px;
+    border-radius: 10px;
+}
+
+.PizzaMenu p{
+    text-align: center;
+    font-size: 20px;
+    font-style:italic;
+    font-weight: bold;
+}
+
+
+
+@media screen and (max-width:520px ){
+    .PizzaMenu img{
+        width:100%;
+        height:auto;
+        border-radius: 10px;
+    }
+
+    .pizzaMenu .container{
+        width:100%;
+    }
+    
+}
