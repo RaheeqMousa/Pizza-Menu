@@ -6,7 +6,9 @@ https://raheeqmousa.github.io/Pizza-Menu/
 
 ## Technologies Used
 - **HTML**
+
 - **CSS**
+
 - **JavaScript**
 
 ## Features
