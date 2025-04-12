@@ -5,9 +5,9 @@ This project is a dynamic and responsive pizza menu webpage built using HTML, CS
 https://raheeqmousa.github.io/Pizza-Menu/
 
 ## Technologies Used
-**HTML**
-**CSS**
-**JavaScript**
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 ## Features
 - **Fetches pizza data dynamically from an external JSON or API**
